@@ -1,0 +1,6 @@
+Cursos:       https://www.rocketseat.com.br/
+Design:       https://www.figma.com/
+Icon:         https://ionic.io/ionicons/v4/usage
+Fontes:       https://fonts.google.com/
+Git e Github: https://git-scm.com/
+
